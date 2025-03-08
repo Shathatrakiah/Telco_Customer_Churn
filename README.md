@@ -15,5 +15,7 @@
 ## 🔗 Google Colab Link
 ((https://colab.research.google.com/drive/11rT48Rq5AAscHwL1tgE2OHaYEBVUIAuF?usp=sharing))
 
----
+## 📊 Presentation
+📄 (https://drive.google.com/file/d/1GXHEib1DPazgMbPZHfB8Zj8aehPYgDM5/view?usp=share_link)
+
 🛠 **Technologies Used:** `Python, Pandas, Scikit-Learn, Matplotlib`
