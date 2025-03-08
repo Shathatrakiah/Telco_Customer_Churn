@@ -13,7 +13,7 @@
 3. **Make sure to upload `customer_data.csv` inside Colab**.
 
 ## 🔗 Google Colab Link
-[⚡ Run the project on Colab]((https://colab.research.google.com/drive/11rT48Rq5AAscHwL1tgE2OHaYEBVUIAuF?usp=sharing))
+((https://colab.research.google.com/drive/11rT48Rq5AAscHwL1tgE2OHaYEBVUIAuF?usp=sharing))
 
 ---
 🛠 **Technologies Used:** `Python, Pandas, Scikit-Learn, Matplotlib`
