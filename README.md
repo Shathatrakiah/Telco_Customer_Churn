@@ -1,6 +1,6 @@
 # Customer Churn Analysis 📊
 
-🔍 This project analyzes customer churn using **Google Colab** and **machine learning techniques**.
+🔍 This project analyzes customer churn using **Google Colab**.
 
 ## 📂 Project Contents
 - 📘 `customer_churn.ipynb` - Jupyter Notebook for analysis.
